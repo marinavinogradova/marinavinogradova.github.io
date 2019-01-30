@@ -39,3 +39,11 @@
 .ok {
 	background: linear-gradient(to right, #f7941d, #fac37f);
 } 
+
+body {
+    background-image: url(../files/back.jpg);
+    background-color: white;  
+    background-size: 100%;
+    background-position: top center; 
+    background-repeat: no-repeat;
+}
