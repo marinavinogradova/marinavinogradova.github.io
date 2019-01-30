@@ -1,0 +1,41 @@
+.read-more-button {
+	display: inline-block; 
+	padding: 17px 20px;
+	border-radius: 40px;
+	border-bottom: ridge;
+}
+.read-more-button:hover {
+	box-shadow: 0 15px 69px rgba(0, 0, 0, 0.21);
+}
+
+.academy {
+	background: linear-gradient(to right, #04a1fe, #9edbff);
+}
+
+.viber {
+	background: linear-gradient(to right, #7d3daf, #c8a8e0);
+}
+
+.watsapp {
+	background: linear-gradient(to right, #55cd6c, #a0e8a0);
+}
+
+.skype {
+	background: linear-gradient(to right, #00aff0, #8ae0ff);
+}
+
+.facebook {
+	background: linear-gradient(to right, #0084ff, #99ceff);
+}
+
+.instagram {
+	background: linear-gradient(to right, #517fa6, #91afc9);
+}
+
+.vk {
+	background: linear-gradient(to right, #597da3, #9db3c9);
+} 
+
+.ok {
+	background: linear-gradient(to right, #f7941d, #fac37f);
+} 
